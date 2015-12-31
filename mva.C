@@ -1,3 +1,7 @@
+///////////////////////
+///  Gouranga Kole, TIFR
+///////////////////////
+
 #include <iostream>
 #include <fstream>
 
